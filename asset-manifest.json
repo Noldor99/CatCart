@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CatCart/static/css/main.a0ca1d8a.css",
+    "main.js": "/CatCart/static/js/main.a8940280.js",
+    "index.html": "/CatCart/index.html",
+    "main.a0ca1d8a.css.map": "/CatCart/static/css/main.a0ca1d8a.css.map",
+    "main.a8940280.js.map": "/CatCart/static/js/main.a8940280.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0ca1d8a.css",
+    "static/js/main.a8940280.js"
+  ]
+}
